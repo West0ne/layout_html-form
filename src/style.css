@@ -1,1 +1,17 @@
 /* styles go here */
+fieldset {
+  border: 1px solid #000;
+  margin: 10px;
+}
+
+.form-field {
+  margin: 20px;
+}
+
+.button {
+  margin: 15px;
+}
+
+#sub {
+  margin: 10px;
+}
